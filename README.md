@@ -1,3 +1,8 @@
 # An efficient workflow for reproducible science
 
-[See the talk](http://tbekolay.github.io/scipy2013-quantities).
+A comprehensive look at representing
+physical quantities in Python; SciPy
+2013 Presentation
+
+[See the talk](https://youtu.be/N-edLdxiM40).
+
